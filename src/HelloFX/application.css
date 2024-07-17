@@ -1,0 +1,11 @@
+/* application.css */
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.label {
+    -fx-font-size: 20px;
+    -fx-text-fill: blue;
+    -fx-alignment: center; /* Asegura que el texto esté centrado */
+    -fx-font-weight: bold; /* Hace el texto en negrita */
+    -fx-translate-x: 50%;
+    -fx-translate-y: 50%;
+}
